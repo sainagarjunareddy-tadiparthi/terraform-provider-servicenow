@@ -2,7 +2,7 @@
 
 A custom provider for Terraform to manage objects in a ServiceNow instance for developping system applications outside of an instance. This is especially useful when you want to create an Application with proper source control and continuous development integration.
 
-<img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" height="200" alt="Terraform Logo"/><img src="https://community.servicenow.com/c4fe846adbb95f0037015e77dc961918.iix" height="200" alt="ServiceNow Logo"/>
+<img src="https://camo.githubusercontent.com/1a4ed08978379480a9b1ca95d7f4cc8eb80b45ad47c056a7cfb5c597e9315ae5/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f323838352f313632393934313234322d6c6f676f2d7465727261666f726d2d6d61696e2e737667" height="200" width="200" alt="Terraform Logo"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/640px-Plus_symbol.svg.png" height="200" width="200" alt="plus logo"/><img src="https://www.servicenow.com/content/dam/servicenow-assets/images/meganav/servicenow-header-logo.svg" height="200" width="200" alt="ServiceNow Logo"/>
 
 [![Release Badge](https://img.shields.io/github/release/sainagarjunareddy-tadiparthi/terraform-provider-servicenow.svg)](https://github.com/sainagarjunareddy-tadiparthi/terraform-provider-servicenow/releases/latest)
 [![License Badge](https://img.shields.io/github/license/sainagarjunareddy-tadiparthi/terraform-provider-servicenow.svg)](LICENSE)
